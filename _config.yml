@@ -1,7 +1,8 @@
 name: EveryPennyCounts
 favicon: null
-layout_spectrum: 0.300209277542308
+layout_spectrum: 0.93039
 typography_spectrum: 0.653779668500647
+title: 'Every Penny Counts, saving to spend more.'
 cta:
   domain: null
   bucket: null
