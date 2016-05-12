@@ -1,0 +1,29 @@
+name: EveryPennyCounts
+favicon: null
+layout_spectrum: 0.300209277542308
+typography_spectrum: 0.653779668500647
+title: 'Every Penny Counts, saving to spend more.'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7012967742048204
+  lightness: 0.5097030680626631
+  saturation: 0.8915730707813054
+  rhythmicContrast: 0.166164563735947
+purpose: []
