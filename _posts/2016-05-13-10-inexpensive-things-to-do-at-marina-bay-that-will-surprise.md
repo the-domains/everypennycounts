@@ -16,15 +16,15 @@ keywords:
   - artscience
   - admission
 description: "Living in Singapore, a country ranked as one of the world's most expensive country to live in, can be a little daunting. What can we do during our leisure time that is not expensive yet fun? "
-datePublished: '2016-05-13T00:42:10.446Z'
-dateModified: '2016-05-13T00:42:03.538Z'
+datePublished: '2016-05-13T00:44:11.159Z'
+dateModified: '2016-05-13T00:44:08.752Z'
 author:
   - name: Emma Lee
     url: 'http://thesmartlocal.com/comm-my/m/profile/3155-emma-lee'
     avatar: {}
 related: []
 app_links: []
-title: 10 Inexpensive Things to Do at Marina Bay That Will Surprise You
+title: ''
 sourcePath: _posts/2016-05-13-10-inexpensive-things-to-do-at-marina-bay-that-will-surprise.md
 authors: []
 publisher:
@@ -41,6 +41,6 @@ Living in Singapore, a country ranked as one of the world's most expensive count
 
 Here's a great article from the folks @ The Smart Local to help you with that dilemma! 
 
-<article style=""><p>With MBS, Singapore Flyer, Gardens by the Bay, and not to mention the incredibly atas looking LV store; the Marina Bay district feels like THE pinnacle of luxury and affluence in Singapore. However, under all the glitz and glamour, there are so many things to do in this seemingly expensive part of Singapore that won't burn a hole in your pocket.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b306d37bb9c38102d375355a7dbba6e0cb4cc992.png" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b306d37bb9c38102d375355a7dbba6e0cb4cc992.png" /></article>
 
 Till then xx
