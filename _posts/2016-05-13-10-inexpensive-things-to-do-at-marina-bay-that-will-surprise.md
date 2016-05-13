@@ -16,8 +16,8 @@ keywords:
   - artscience
   - admission
 description: "Living in Singapore, a country ranked as one of the world's most expensive country to live in, can be a little daunting. What can we do during our leisure time that is not expensive yet fun? "
-datePublished: '2016-05-13T01:13:21.486Z'
-dateModified: '2016-05-13T01:08:05.521Z'
+datePublished: '2016-05-13T01:21:31.652Z'
+dateModified: '2016-05-13T01:21:17.311Z'
 author:
   - name: Emma Lee
     url: 'http://thesmartlocal.com/comm-my/m/profile/3155-emma-lee'
@@ -41,6 +41,7 @@ Living in Singapore, a country ranked as one of the world's most expensive count
 
 Here's a great article from the folks @ TheSmartLocal to help you with that dilemma! 
 
-<article style=""><h1>10 Inexpensive Things to Do at Marina Bay That Will Surprise You</h1><p>-</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b306d37bb9c38102d375355a7dbba6e0cb4cc992.png" /></article>
+http://thesmartlocal.com/read/things-to-do-marina-bay
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/39385ff1-2f65-4f7d-9e92-836538e10558.png)
 
 Till then xx
