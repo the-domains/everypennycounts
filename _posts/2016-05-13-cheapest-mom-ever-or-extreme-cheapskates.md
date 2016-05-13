@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=hHB_zvrfOoc'
 inLanguage: null
 keywords: []
 description: 'Watch how this mom attempts to save money with everyday household items. SUPER MOM, we say!'
-datePublished: '2016-05-13T01:28:14.544Z'
-dateModified: '2016-05-13T01:27:57.215Z'
+datePublished: '2016-05-13T01:28:39.847Z'
+dateModified: '2016-05-13T01:28:29.729Z'
 author:
   - name: TLC
     url: 'https://www.youtube.com/user/TLC'
@@ -22,7 +22,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://ipv4.google.com/favicon.ico'
-starred: true
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
