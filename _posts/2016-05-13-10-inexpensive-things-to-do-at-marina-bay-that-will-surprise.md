@@ -16,8 +16,8 @@ keywords:
   - artscience
   - admission
 description: "Living in Singapore, a country ranked as one of the world's most expensive country to live in, can be a little daunting. What can we do during our leisure time that is not expensive yet fun? "
-datePublished: '2016-05-13T00:51:07.874Z'
-dateModified: '2016-05-13T00:50:37.559Z'
+datePublished: '2016-05-13T00:52:37.732Z'
+dateModified: '2016-05-13T00:52:37.044Z'
 author:
   - name: Emma Lee
     url: 'http://thesmartlocal.com/comm-my/m/profile/3155-emma-lee'
