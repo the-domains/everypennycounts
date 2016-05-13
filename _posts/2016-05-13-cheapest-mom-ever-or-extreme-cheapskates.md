@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=hHB_zvrfOoc'
 inLanguage: null
 keywords: []
 description: 'Watch how this mom attempts to save money with everyday household items. SUPER MOM, we say!'
-datePublished: '2016-05-13T01:05:55.602Z'
-dateModified: '2016-05-13T01:05:41.399Z'
+datePublished: '2016-05-13T01:07:04.762Z'
+dateModified: '2016-05-13T01:06:35.761Z'
 author:
   - name: TLC
     url: 'https://www.youtube.com/user/TLC'
@@ -15,6 +15,7 @@ author:
 related: []
 app_links: []
 title: 'Cheapest Mom Ever | Extreme Cheapskates'
+sourcePath: _posts/2016-05-13-cheapest-mom-ever-or-extreme-cheapskates.md
 authors: []
 publisher:
   name: YouTube
@@ -22,7 +23,6 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://ipv4.google.com/favicon.ico'
 starred: false
-sourcePath: _posts/2016-05-13-cheapest-mom-ever-or-extreme-cheapskates.md
 _type: VideoObject
 _context: 'http://schema.org'
 
